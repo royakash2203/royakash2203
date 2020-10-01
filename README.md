@@ -34,3 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritraroy24&theme=tokyonight&show_icons=true" alt="aritraroy24" /></p>
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=aritraroy24&theme=tokyonight" alt="aritraroy24" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritraroy24&theme=tokyonight alt="aritraroy24" /></p>
