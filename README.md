@@ -32,4 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritraroy24&theme=tokyonight&layout=compact" alt="aritraroy24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritraroy24&theme=tokyonight&show_icons=true" alt="aritraroy24" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aritraroy24&theme=tokyonight&show_icons=true" alt="aritraroy24" /></p>
