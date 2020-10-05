@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aritra Roy</h1>
 <h3 align="center">A passionate web application developer from India</h3>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aritraroy24&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/aritraroy24)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aritraroy24)
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/aritraroy24/aritraroy24?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aritraroy24)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/aritraroy24)
 
 
 - 🔭 I’m currently working on [BudgetBuy Shopping Website](https://github.com/aritraroy24/Budget_Buy_ShoppingSite)
@@ -58,6 +58,3 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritraroy24&theme=tokyonight&layout=compact" alt="aritraroy24" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aritraroy24&theme=tokyonight&show_icons=true" alt="aritraroy24" />
 
-----
-#### Have Fun
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
