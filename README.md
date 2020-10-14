@@ -55,10 +55,6 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://camo.githubusercontent.com/59f7fd298015bb0698ee700d13c2a0b24b2f8181/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66622f41646f62655f496c6c7573747261746f725f43435f69636f6e2e7376672f32343670782d41646f62655f496c6c7573747261746f725f43435f69636f6e2e7376672e706e67" alt="illustrator" width="40" height="40"/> </a>  
 </p>
 
-[![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=aritraroy24&repo=covid19-japan-web-api&theme=monokai)](https://github.com/aritraroy24/covid19-japan-web-api)
-
-[![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=aritraroy24&repo=lazyhub&theme=monokai)](https://github.com/aritraroy24/lazyhub)
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritraroy24&theme=tokyonight&layout=compact" alt="aritraroy24" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aritraroy24&theme=tokyonight&show_icons=true" alt="aritraroy24" />
 
