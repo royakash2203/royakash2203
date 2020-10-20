@@ -6,7 +6,7 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aritraroy24&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/aritraroy24/aritraroy24?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
-- 🔭 I’m currently working on [BudgetBuy Shopping Website](https://github.com/aritraroy24/Budget_Buy_ShoppingSite)
+- 🔭 I’m currently working on [Digital Card Making Website (Using React)](https://github.com/aritraroy24/Design_Your_Card)
 
 - 🌱 I’m currently learning **Node.js and MongoDB**
 
