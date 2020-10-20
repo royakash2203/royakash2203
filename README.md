@@ -57,5 +57,3 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritraroy24&theme=tokyonight&layout=compact" alt="aritraroy24" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aritraroy24&theme=tokyonight&show_icons=true" alt="aritraroy24" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aritraroy24&theme=onedark)](https://github.com/aritraroy24/github-profile-trophy)
