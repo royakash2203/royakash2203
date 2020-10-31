@@ -1,4 +1,4 @@
-[![image](https://www.linkpicture.com/q/ss_portfolio.png)](https://www.linkpicture.com/view.php?img=LPic5f9cdbc418f62723862720)
+[![image](https://www.linkpicture.com/q/ss_6.png)](https://www.linkpicture.com/view.php?img=LPic5f9cdd2eb032b1534563274)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aritra Roy</h1>
 <h3 align="center">A passionate web application developer from India</h3>
 
