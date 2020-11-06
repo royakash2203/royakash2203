@@ -1,4 +1,3 @@
-[![image](https://www.linkpicture.com/q/ss_7.png)](https://www.linkpicture.com/view.php?img=LPic5f9cdd748ed7d8558884)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aritra Roy</h1>
 <h3 align="center">A passionate web application developer from India</h3>
 
@@ -9,13 +8,13 @@
 
 - 🔭 I’m currently working on [Digital Card Making Website (Using React)](https://github.com/aritraroy24/Design_Your_Card)
 
-- 🌱 I’m currently learning **Node.js and MongoDB**
+- 🌱 I’m currently learning **React, Redux and Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aritraroy24](https://github.com/aritraroy24)
 
 - 📝 I regulary write articles on [https://medium.com/@aritraroycoc](https://medium.com/@aritraroycoc)
 
-- 💬 Ask me about **HTML5, CSS3, JS(ECMA6), Bootstrap4, React.js, Redux, PHP, MySQL**
+- 💬 Ask me about **HTML5, CSS3, JS(ECMA6), Bootstrap4, React.js, Redux**
 
 - 📫 How to reach me **aritraroy24@gmail.com**
 
@@ -44,15 +43,10 @@
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://camo.githubusercontent.com/54ad53e4ba8ef73bd6b13fd29b101d0ef66163b2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61662f41646f62655f50686f746f73686f705f43435f69636f6e2e7376672f3130353170782d41646f62655f50686f746f73686f705f43435f69636f6e2e7376672e706e67" alt="photoshop" width="40" height="40"/> </a>  
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://camo.githubusercontent.com/59f7fd298015bb0698ee700d13c2a0b24b2f8181/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66622f41646f62655f496c6c7573747261746f725f43435f69636f6e2e7376672f32343670782d41646f62655f496c6c7573747261746f725f43435f69636f6e2e7376672e706e67" alt="illustrator" width="40" height="40"/> </a>  
 </p>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 
 <a href="https://github.com/aritraroy24/aritraroy24">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritraroy24&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
