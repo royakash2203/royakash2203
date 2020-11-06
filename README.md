@@ -6,7 +6,7 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aritraroy24&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/aritraroy24/aritraroy24?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
-- 🔭 I’m currently working on [Digital Card Making Website (Using React)](https://github.com/aritraroy24/Design_Your_Card)
+- 🔭 I’m currently working on [Lyrics Finder (Using React)](https://github.com/aritraroy24/Find_Lyrics_With_React)
 
 - 🌱 I’m currently learning **React, Redux and Firebase**
 
@@ -45,9 +45,9 @@
   <a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://camo.githubusercontent.com/54ad53e4ba8ef73bd6b13fd29b101d0ef66163b2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61662f41646f62655f50686f746f73686f705f43435f69636f6e2e7376672f3130353170782d41646f62655f50686f746f73686f705f43435f69636f6e2e7376672e706e67" alt="photoshop" width="40" height="40"/> </a>  
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://camo.githubusercontent.com/59f7fd298015bb0698ee700d13c2a0b24b2f8181/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66622f41646f62655f496c6c7573747261746f725f43435f69636f6e2e7376672f32343670782d41646f62655f496c6c7573747261746f725f43435f69636f6e2e7376672e706e67" alt="illustrator" width="40" height="40"/> </a>  
-</p>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-
+</p>
+  
 <a href="https://github.com/aritraroy24/aritraroy24">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritraroy24&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
