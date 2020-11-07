@@ -6,7 +6,7 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aritraroy24&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/aritraroy24/aritraroy24?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
-- 🔭 I’m currently working on [Lyrics Finder (Using React)](https://github.com/aritraroy24/Find_Lyrics_With_React)
+- 🔭 I’m currently working on [Newsaholic (Using React Native & Expo)](https://github.com/DuoScript/Newsaholic)
 
 - 🌱 I’m currently learning **React, Redux and Firebase**
 
