@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aritraroy24](https://github.com/aritraroy24)
 
-- 📝 I regulary write articles on [https://medium.com/@aritraroycoc](https://medium.com/@aritraroycoc)
+- 📝 I regulary write articles on [https://medium.com/@aritraroycoc](https://medium.com/@aritraroy24)
 
 - 💬 Ask me about **HTML5, CSS3, JS(ECMA6), Bootstrap4, React.js, Redux**
 
