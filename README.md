@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **HTML5, CSS3, JS(ECMA6), Bootstrap4, React.js, Redux**
 
-- 📫 How to reach me? `Send a mail to -`  **aritraroy24@gmail.com**
+- 📫 How to reach me? **Send a mail to -**  **aritraroy24@gmail.com**
 
 - ⚡ Hobbies **Violin🎻, Story Book📚, Drama🎭, Drawing🎨**
 
