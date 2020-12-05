@@ -25,7 +25,7 @@
 <a href="https://twitter.com/aritraroy24roy" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aritraroy24roy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aritraroy24" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aritraroy24" height="30" width="40" /></a>
 <a href="https://instagram.com/aritraroy24" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aritraroy24" height="30" width="40" /></a>
-<a href="https://medium.com/@aritraroycoc" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aritraroycoc" height="30" width="40" /></a>
+<a href="https://medium.com/@aritraroy24" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aritraroycoc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
