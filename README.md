@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **React, Redux and Firebase**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aritraroy24](https://github.com/aritraroy24)
+- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/aritraroy24)
 
-- 📝 I regulary write articles on [https://medium.com/@aritraroycoc](https://medium.com/@aritraroy24)
+- 📝 I regulary write articles on [Medium](https://medium.com/@aritraroy24)
 
 - 💬 Ask me about **HTML5, CSS3, JS(ECMA6), Bootstrap4, React.js, Redux**
 
-- 📫 How to reach me **aritraroy24@gmail.com**
+- 📫 How to reach me? `Send a mail to -`  **aritraroy24@gmail.com**
 
 - ⚡ Hobbies **Violin🎻, Story Book📚, Drama🎭, Drawing🎨**
 
