@@ -22,7 +22,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/aritraroy24roy" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aritraroy24roy" height="30" width="40" /></a>
+<a href="https://twitter.com/aritraroy24roy" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgCeVF_mpx6Wd50ZWOZVn-nrOl-NJ9SYd-A&usqp=CAU" alt="aritraroy24roy" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/aritraroy24" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiH0w-gIJMAxwZ3706Xf_GUN-wh3TymU8AMA&usqp=CAU" alt="aritraroy24" height="30" width="30" /></a>
 <a href="https://instagram.com/aritraroy24" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aritraroy24" height="30" width="40" /></a>
 <a href="https://medium.com/@aritraroy24" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aritraroycoc" height="30" width="40" /></a>
