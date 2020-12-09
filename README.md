@@ -22,16 +22,16 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/aritraroy24roy" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgCeVF_mpx6Wd50ZWOZVn-nrOl-NJ9SYd-A&usqp=CAU" alt="aritraroy24roy" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/aritraroy24" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiH0w-gIJMAxwZ3706Xf_GUN-wh3TymU8AMA&usqp=CAU" alt="aritraroy24" height="30" width="30" /></a>
-<a href="https://instagram.com/aritraroy24" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aritraroy24" height="30" width="40" /></a>
-<a href="https://medium.com/@aritraroy24" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aritraroycoc" height="30" width="40" /></a>
+<a href="https://twitter.com/aritraroy24roy" target="_blank"><img align="center" src="https://www.seekpng.com/png/full/84-842766_logo-twitter-png-noir-twitter-icon-vector-circle.png" alt="aritraroy24roy" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/aritraroy24" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/address-book-providers-in-black-white/512/linkedin-512.png" alt="aritraroy24" height="30" width="30" /></a>
+<a href="https://instagram.com/aritraroy24" target="_blank"><img align="center" src="https://www.freeiconspng.com/thumbs/black-icon/black-instagram-icon-21.png" alt="aritraroy24" height="30" width="30" /></a>
+<a href="https://medium.com/@aritraroy24" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" alt="@aritraroycoc" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://miro.medium.com/max/600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" alt="visualstudiocode" height="40" width="40" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://pngimg.com/uploads/github/github_PNG58.png" alt="github" height="40" width="40" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-media-circle/512/circle-github-512.png" alt="github" height="40" width="40" /></a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
