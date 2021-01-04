@@ -30,22 +30,22 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://miro.medium.com/max/600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" alt="visualstudiocode" height="40" width="40" /></a>&nbsp;
-  <a href="https://github.com/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-media-circle/512/circle-github-512.png" alt="github" height="40" width="40" /></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" alt="c" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.java.com" target="_blank"> <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" alt="java" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript"  width="40" height="40"/></a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vnurture.in/wp-content/uploads/2019/09/html5-icon-13.png" alt="html5" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a>&nbsp;
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="sass" width="40" height="40"/> </a>&nbsp;
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.searchpng.com/wp-content/uploads/2019/02/Bootstrap-Logo-PNG.png" alt="bootstrap" width="40" height="40"/> </a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="40" height="40"/> </a>&nbsp;
-  <a href="https://redux.js.org" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" alt="redux" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://camo.githubusercontent.com/54ad53e4ba8ef73bd6b13fd29b101d0ef66163b2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61662f41646f62655f50686f746f73686f705f43435f69636f6e2e7376672f3130353170782d41646f62655f50686f746f73686f705f43435f69636f6e2e7376672e706e67" alt="photoshop" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://camo.githubusercontent.com/59f7fd298015bb0698ee700d13c2a0b24b2f8181/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66622f41646f62655f496c6c7573747261746f725f43435f69636f6e2e7376672f32343670782d41646f62655f496c6c7573747261746f725f43435f69636f6e2e7376672e706e67" alt="illustrator" width="40" height="40"/> </a>&nbsp;
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.linkpicture.com/q/vscode.png" alt="visualstudiocode" height="40" width="40" /></a>&nbsp;
+  <a href="https://github.com/" target="_blank"><img src="https://www.linkpicture.com/q/github.png" alt="github" height="40" width="40" /></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.linkpicture.com/q/git_1.png" alt="git" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://www.linkpicture.com/q/c_3.png" alt="c" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.java.com" target="_blank"> <img src="https://www.linkpicture.com/q/java.png" alt="java" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.python.org/" target="_blank"> <img src="https://www.linkpicture.com/q/python.png" alt="python" width="40" height="40"/> </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.linkpicture.com/q/javascript_1.png" alt="javascript"  width="40" height="40"/></a>&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.linkpicture.com/q/html_2.png" alt="html5" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.linkpicture.com/q/css.png" alt="css3" width="40" height="40"/> </a>&nbsp;
+  <a href="https://sass-lang.com" target="_blank"> <img src="https://www.linkpicture.com/q/sass.png" alt="sass" width="40" height="40"/> </a>&nbsp;
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.linkpicture.com/q/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>&nbsp;
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://www.linkpicture.com/q/react.png" alt="react" width="40" height="40"/> </a>&nbsp;
+  <a href="https://redux.js.org" target="_blank"> <img src="https://www.linkpicture.com/q/redux.png" alt="redux" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://www.linkpicture.com/q/photoshop.png" alt="photoshop" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.linkpicture.com/q/illustrator.png" alt="illustrator" width="40" height="40"/> </a>&nbsp;
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.linkpicture.com/q/firebase.png" alt="firebase" width="40" height="40"/> </a>&nbsp;
 </p>
   
 <a href="https://github.com/aritraroy24/aritraroy24">
