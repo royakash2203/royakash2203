@@ -43,7 +43,7 @@
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.linkpicture.com/q/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>&nbsp;
   <a href="https://reactjs.org/" target="_blank"> <img src="https://www.linkpicture.com/q/react.png" alt="react" width="40" height="40"/> </a>&nbsp;
   <a href="https://redux.js.org" target="_blank"> <img src="https://www.linkpicture.com/q/redux.png" alt="redux" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://www.linkpicture.com/q/photoshop.png" alt="photoshop" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://www.linkpicture.com/q/photoshop_1.png" alt="photoshop" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.linkpicture.com/q/illustrator.png" alt="illustrator" width="40" height="40"/> </a>&nbsp;
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.linkpicture.com/q/firebase.png" alt="firebase" width="40" height="40"/> </a>&nbsp;
 </p>
