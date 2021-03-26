@@ -22,10 +22,11 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/aritraroy24roy" target="_blank"><img align="center" src="https://www.seekpng.com/png/full/84-842766_logo-twitter-png-noir-twitter-icon-vector-circle.png" alt="aritraroy24roy" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/aritraroy24" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/address-book-providers-in-black-white/512/linkedin-512.png" alt="aritraroy24" height="30" width="30" /></a>
-<a href="https://instagram.com/aritraroy24" target="_blank"><img align="center" src="https://www.freeiconspng.com/thumbs/black-icon/black-instagram-icon-21.png" alt="aritraroy24" height="30" width="30" /></a>
 <a href="https://medium.com/@aritraroy24" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" alt="@aritraroycoc" height="30" width="30" /></a>
+<a href="https://twitter.com/aritraroy24roy" target="_blank"><img align="center" src="https://www.seekpng.com/png/full/84-842766_logo-twitter-png-noir-twitter-icon-vector-circle.png" alt="aritraroy24roy" height="30" width="30" /></a>
+<a href="https://www.facebook.com/aritraroy24/" target="_blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/04/Black-icon-facebook-logo-PNG.png" alt="aritraroy24" height="30" width="30" /></a>
+<a href="https://instagram.com/aritraroy24" target="_blank"><img align="center" src="https://www.freeiconspng.com/thumbs/black-icon/black-instagram-icon-21.png" alt="aritraroy24" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
