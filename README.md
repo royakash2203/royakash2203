@@ -35,7 +35,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.linkpicture.com/q/vscode.png" alt="visualstudiocode" height="40" width="40" /></a>&nbsp;
   <a href="https://github.com/" target="_blank"><img src="https://www.linkpicture.com/q/github_9.png" alt="github" height="40" width="40" /></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.linkpicture.com/q/git_1.png" alt="git" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://www.linkpicture.com/q/c_3.png" alt="c" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://www.linkpicture.com/q/c_13.png" alt="c" width="40" height="40"/></a>&nbsp;
   <a href="https://www.java.com" target="_blank"> <img src="https://www.linkpicture.com/q/java.png" alt="java" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.python.org/" target="_blank"> <img src="https://www.linkpicture.com/q/python_1.png" alt="python" width="40" height="40"/> </a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.linkpicture.com/q/javascript.png" alt="javascript"  width="40" height="40"/></a>&nbsp;
