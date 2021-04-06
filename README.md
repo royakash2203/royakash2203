@@ -1,12 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aritra Roy</h1>
 <h3 align="center">A passionate web application developer from India</h3>
 
-<p align="center">
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/aritraroy24)
   [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aritraroy24)
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aritraroy24&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/aritraroy24/aritraroy24?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-</p>
 
 - 🔭 I’m currently working on [Newsaholic (Using React Native & Expo)](https://github.com/DuoScript/Newsaholic)
 
@@ -31,10 +29,7 @@
 <a href="https://www.facebook.com/aritraroy24/" target="_blank"><img align="center" src="https://www.linkpicture.com/q/facebook_29.png" alt="aritraroy24" height="30" width="30" /></a>
 <a href="https://instagram.com/aritraroy24" target="_blank"><img align="center" src="https://www.freeiconspng.com/thumbs/black-icon/black-instagram-icon-21.png" alt="aritraroy24" height="30" width="30" /></a>
 </p>
-<p align="center">
-  <img src="https://www.linkpicture.com/q/gold_line.png">
-</p>
-</br>
+<img align="center" src="https://www.linkpicture.com/q/gold_line.png" width="100">
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.linkpicture.com/q/vscode.png" alt="visualstudiocode" height="40" width="40" /></a>&nbsp;
