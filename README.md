@@ -1,10 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aritra Roy</h1>
 <h3 align="center">A passionate web application developer from India</h3>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/aritraroy24)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aritraroy24)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=aritraroy24&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/aritraroy24/aritraroy24?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+<p align="center">
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/aritraroy24)
+  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aritraroy24)
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aritraroy24&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/aritraroy24/aritraroy24?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+</p>
 
 - 🔭 I’m currently working on [Newsaholic (Using React Native & Expo)](https://github.com/DuoScript/Newsaholic)
 
@@ -20,8 +22,8 @@
 
 - ⚡ Hobbies **Violin🎻, Story Book📚, Drama🎭, Drawing🎨**
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+<h3 align="center">Connect with me:</h3>
 <a href="https://aritraroy24.netlify.app/" target="_blank"><img align="center" src="https://www.linkpicture.com/q/website_3.png" alt="aritraroy24_website" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/aritraroy24" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/address-book-providers-in-black-white/512/linkedin-512.png" alt="aritraroy24" height="30" width="30" /></a>
 <a href="https://medium.com/@aritraroy24" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" alt="@aritraroycoc" height="30" width="30" /></a>
@@ -29,9 +31,12 @@
 <a href="https://www.facebook.com/aritraroy24/" target="_blank"><img align="center" src="https://www.linkpicture.com/q/facebook_29.png" alt="aritraroy24" height="30" width="30" /></a>
 <a href="https://instagram.com/aritraroy24" target="_blank"><img align="center" src="https://www.freeiconspng.com/thumbs/black-icon/black-instagram-icon-21.png" alt="aritraroy24" height="30" width="30" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center">
+  <img src="https://www.linkpicture.com/q/gold_line.png">
+</p>
+</br>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.linkpicture.com/q/vscode.png" alt="visualstudiocode" height="40" width="40" /></a>&nbsp;
   <a href="https://github.com/" target="_blank"><img src="https://www.linkpicture.com/q/github_9.png" alt="github" height="40" width="40" /></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.linkpicture.com/q/git_1.png" alt="git" width="40" height="40"/> </a>&nbsp;
@@ -50,11 +55,13 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.linkpicture.com/q/firebase.png" alt="firebase" width="40" height="40"/> </a>&nbsp;
 </p>
   
-<a href="https://github.com/aritraroy24/aritraroy24">
+<p align="center">
+  <a href="https://github.com/aritraroy24/aritraroy24">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritraroy24&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/aritraroy24/aritraroy24">
+  </a>
+  <a href="https://github.com/aritraroy24/aritraroy24">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aritraroy24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aritra's GitHub Stats" />
-  
-  
+</p>
+</br>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritraroy24&no-frame=true&theme=juicyfresh&row=1" alt="aritraroy24_github_trophy" /></a> </p>
