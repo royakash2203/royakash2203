@@ -8,22 +8,24 @@
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/aritraroy24/aritraroy24?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 
-- 🔭 I’m currently working on [Newsaholic (Using React Native & Expo)](https://github.com/DuoScript/Newsaholic)
-
-- 🌱 I’m currently learning **React, Redux and Firebase**
-
-- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/aritraroy24)
-
-- 📝 I regulary write articles on [Medium](https://medium.com/@aritraroy24)
-
-- 💬 Ask me about **HTML5, CSS3, JS(ECMA6), Bootstrap4, React.js, Redux**
-
-- 📫 How to reach me? **Send a mail to -**  **aritraroy24@gmail.com**
-
-- ⚡ Hobbies **Violin🎻, Story Book📚, Drama🎭, Drawing🎨**
+<p align="center">
+  🔭 I’m currently working on [Newsaholic (Using React Native & Expo)](https://github.com/DuoScript/Newsaholic)
+  <img align="center" src="https://ibb.co/QHV5cS6" height="5">
+  🌱 I’m currently learning **React, Redux and Firebase**
+  <img align="center" src="https://ibb.co/QHV5cS6" height="5">
+  👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/aritraroy24)
+  <img align="center" src="https://ibb.co/QHV5cS6" height="5">
+  📝 I regulary write articles on [Medium](https://medium.com/@aritraroy24)
+  <img align="center" src="https://ibb.co/QHV5cS6" height="5">
+  💬 Ask me about **HTML5, CSS3, JS(ECMA6), Bootstrap4, React.js, Redux**
+  <img align="center" src="https://ibb.co/QHV5cS6" height="5">
+  📫 How to reach me? **Send a mail to -**  **aritraroy24@gmail.com**
+  <img align="center" src="https://ibb.co/QHV5cS6" height="5">
+  ⚡ Hobbies **Violin🎻, Story Book📚, Drama🎭, Drawing🎨**
+</p>
 
 <p align="center">
-<h3 align="center">Connect with me:</h3>
+  <h3 align="center">Connect with me:</h3>
 </p>
 <p align="center">
 <a href="https://aritraroy24.netlify.app/" target="_blank"><img align="center" src="https://www.linkpicture.com/q/website_3.png" alt="aritraroy24_website" height="30" width="30" /></a>
