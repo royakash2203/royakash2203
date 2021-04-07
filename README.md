@@ -8,7 +8,7 @@
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/aritraroy24/aritraroy24?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 
-<p align="center">
+<div align="center">
   
   🔭 I’m currently working on [Newsaholic (Using React Native & Expo)](https://github.com/DuoScript/Newsaholic) </br>
   🌱 I’m currently learning **React, Redux and Firebase** </br>
@@ -18,7 +18,7 @@
   📫 How to reach me? **Send a mail to -**  **aritraroy24@gmail.com** </br>
   ⚡ Hobbies **Violin🎻, Story Book📚, Drama🎭, Drawing🎨** </br>
   
-</p>
+</div>
 
 <p align="center">
   <h3 align="center">Connect with me:</h3>
