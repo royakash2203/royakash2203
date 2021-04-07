@@ -27,7 +27,7 @@
 </div>
 
 <p align="center">
-  <img src="https://www.linkpicture.com/q/connect_with_me.png>
+  <img src="https://www.linkpicture.com/q/connect_with_me.png">
 </p>
 <p align="center">
 <a href="https://aritraroy24.netlify.app/" target="_blank"><img align="center" src="https://www.linkpicture.com/q/website_3.png" alt="aritraroy24_website" height="30" width="30" /></a>
@@ -40,7 +40,7 @@
 <p align="center">
   <img align="center" src="https://www.linkpicture.com/q/gold_line.png" width="500">
 </p>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages & Tools</h3>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.linkpicture.com/q/vscode.png" alt="visualstudiocode" height="40" width="40" /></a>&nbsp;
   <a href="https://github.com/" target="_blank"><img src="https://www.linkpicture.com/q/github_9.png" alt="github" height="40" width="40" /></a>&nbsp;
