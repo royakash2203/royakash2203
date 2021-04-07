@@ -27,7 +27,7 @@
 </div>
 
 <p align="center">
-  <img src="https://www.linkpicture.com/q/connect_with_me.png">
+  <img src="https://www.linkpicture.com/q/connect_with_me.png" width="150">
 </p>
 <p align="center">
 <a href="https://aritraroy24.netlify.app/" target="_blank"><img align="center" src="https://www.linkpicture.com/q/website_3.png" alt="aritraroy24_website" height="30" width="30" /></a>
@@ -59,8 +59,10 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.linkpicture.com/q/illustrator.png" alt="illustrator" width="40" height="40"/> </a>&nbsp;
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.linkpicture.com/q/firebase.png" alt="firebase" width="40" height="40"/> </a>&nbsp;
 </p>
+</br>
   
 <p align="center">
+  <h3 align="center">GitHub Stats</h3>
   <a href="https://github.com/aritraroy24/aritraroy24">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritraroy24&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
@@ -69,4 +71,7 @@
 </p>
 </br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritraroy24&no-frame=true&theme=juicyfresh&row=1" alt="aritraroy24_github_trophy" /></a> </p>
+<p align="center"> 
+  <h3 align="center">Github Profile Trophy</3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritraroy24&no-frame=true&theme=juicyfresh&row=1" alt="aritraroy24_github_trophy" /></a> 
+</p>
