@@ -27,7 +27,7 @@
 </div>
 
 <p align="center">
-  <h3 align="center">Connect with me:</h3>
+  <img src="https://www.linkpicture.com/q/connect_with_me.png>
 </p>
 <p align="center">
 <a href="https://aritraroy24.netlify.app/" target="_blank"><img align="center" src="https://www.linkpicture.com/q/website_3.png" alt="aritraroy24_website" height="30" width="30" /></a>
