@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aritra Roy</h1>
-<h3 align="center">A passionate web application developer from India</h3>
+<h3 align="center">A Passionate Web Application Developer From India</h3>
 
 <p align="center">
   <img alt="PR_welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github" href="https://github.com/aritraroy24">
@@ -11,17 +11,17 @@
 <div align="center">
   
   🔭 I’m currently working on [Newsaholic (Using React Native & Expo)](https://github.com/DuoScript/Newsaholic) </br>
-  <img align="center" src="https://photos.google.com/share/AF1QipPjtcMu9V_uxISazrn-T6NDFimtWevkDKXGcuTe_1tEDDhaVY9SYq3Q9YItIs-lnQ/photo/AF1QipOFcB61hlEykQ1P1FiFqs6o9J49W7sS76vfLwL1?key=ZE1aNjBYQ2ZsTndOVU9sT2hvQnctT2ExWi1oMlVR"> </br>
+  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png"> </br>
   🌱 I’m currently learning **React, Redux and Firebase** </br>
-  <img align="center" src="https://photos.google.com/share/AF1QipPjtcMu9V_uxISazrn-T6NDFimtWevkDKXGcuTe_1tEDDhaVY9SYq3Q9YItIs-lnQ/photo/AF1QipOFcB61hlEykQ1P1FiFqs6o9J49W7sS76vfLwL1?key=ZE1aNjBYQ2ZsTndOVU9sT2hvQnctT2ExWi1oMlVR"> </br>
+  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png"> </br>
   👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/aritraroy24) </br>
-  <img align="center" src="https://photos.google.com/share/AF1QipPjtcMu9V_uxISazrn-T6NDFimtWevkDKXGcuTe_1tEDDhaVY9SYq3Q9YItIs-lnQ/photo/AF1QipOFcB61hlEykQ1P1FiFqs6o9J49W7sS76vfLwL1?key=ZE1aNjBYQ2ZsTndOVU9sT2hvQnctT2ExWi1oMlVR"> </br>
+  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png"> </br>
   📝 I regulary write articles on [Medium](https://medium.com/@aritraroy24) </br>
-  <img align="center" src="https://photos.google.com/share/AF1QipPjtcMu9V_uxISazrn-T6NDFimtWevkDKXGcuTe_1tEDDhaVY9SYq3Q9YItIs-lnQ/photo/AF1QipOFcB61hlEykQ1P1FiFqs6o9J49W7sS76vfLwL1?key=ZE1aNjBYQ2ZsTndOVU9sT2hvQnctT2ExWi1oMlVR"> </br>
+  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png"> </br>
   💬 Ask me about **HTML5, CSS3, JS(ECMA6), Bootstrap4, React.js, Redux** </br>
-  <img align="center" src="https://photos.google.com/share/AF1QipPjtcMu9V_uxISazrn-T6NDFimtWevkDKXGcuTe_1tEDDhaVY9SYq3Q9YItIs-lnQ/photo/AF1QipOFcB61hlEykQ1P1FiFqs6o9J49W7sS76vfLwL1?key=ZE1aNjBYQ2ZsTndOVU9sT2hvQnctT2ExWi1oMlVR"> </br>
+  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png"> </br>
   📫 How to reach me? **Send a mail to -**  **aritraroy24@gmail.com** </br>
-  <img align="center" src="https://photos.google.com/share/AF1QipPjtcMu9V_uxISazrn-T6NDFimtWevkDKXGcuTe_1tEDDhaVY9SYq3Q9YItIs-lnQ/photo/AF1QipOFcB61hlEykQ1P1FiFqs6o9J49W7sS76vfLwL1?key=ZE1aNjBYQ2ZsTndOVU9sT2hvQnctT2ExWi1oMlVR"> </br>
+  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png"> </br>
   ⚡ Hobbies **Violin🎻, Story Book📚, Drama🎭, Drawing🎨** </br>
   
 </div>
