@@ -11,11 +11,17 @@
 <div align="center">
   
   🔭 I’m currently working on [Newsaholic (Using React Native & Expo)](https://github.com/DuoScript/Newsaholic) </br>
+  <img align="center" src="https://photos.google.com/share/AF1QipPjtcMu9V_uxISazrn-T6NDFimtWevkDKXGcuTe_1tEDDhaVY9SYq3Q9YItIs-lnQ/photo/AF1QipOFcB61hlEykQ1P1FiFqs6o9J49W7sS76vfLwL1?key=ZE1aNjBYQ2ZsTndOVU9sT2hvQnctT2ExWi1oMlVR"> </br>
   🌱 I’m currently learning **React, Redux and Firebase** </br>
+  <img align="center" src="https://photos.google.com/share/AF1QipPjtcMu9V_uxISazrn-T6NDFimtWevkDKXGcuTe_1tEDDhaVY9SYq3Q9YItIs-lnQ/photo/AF1QipOFcB61hlEykQ1P1FiFqs6o9J49W7sS76vfLwL1?key=ZE1aNjBYQ2ZsTndOVU9sT2hvQnctT2ExWi1oMlVR"> </br>
   👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/aritraroy24) </br>
+  <img align="center" src="https://photos.google.com/share/AF1QipPjtcMu9V_uxISazrn-T6NDFimtWevkDKXGcuTe_1tEDDhaVY9SYq3Q9YItIs-lnQ/photo/AF1QipOFcB61hlEykQ1P1FiFqs6o9J49W7sS76vfLwL1?key=ZE1aNjBYQ2ZsTndOVU9sT2hvQnctT2ExWi1oMlVR"> </br>
   📝 I regulary write articles on [Medium](https://medium.com/@aritraroy24) </br>
+  <img align="center" src="https://photos.google.com/share/AF1QipPjtcMu9V_uxISazrn-T6NDFimtWevkDKXGcuTe_1tEDDhaVY9SYq3Q9YItIs-lnQ/photo/AF1QipOFcB61hlEykQ1P1FiFqs6o9J49W7sS76vfLwL1?key=ZE1aNjBYQ2ZsTndOVU9sT2hvQnctT2ExWi1oMlVR"> </br>
   💬 Ask me about **HTML5, CSS3, JS(ECMA6), Bootstrap4, React.js, Redux** </br>
+  <img align="center" src="https://photos.google.com/share/AF1QipPjtcMu9V_uxISazrn-T6NDFimtWevkDKXGcuTe_1tEDDhaVY9SYq3Q9YItIs-lnQ/photo/AF1QipOFcB61hlEykQ1P1FiFqs6o9J49W7sS76vfLwL1?key=ZE1aNjBYQ2ZsTndOVU9sT2hvQnctT2ExWi1oMlVR"> </br>
   📫 How to reach me? **Send a mail to -**  **aritraroy24@gmail.com** </br>
+  <img align="center" src="https://photos.google.com/share/AF1QipPjtcMu9V_uxISazrn-T6NDFimtWevkDKXGcuTe_1tEDDhaVY9SYq3Q9YItIs-lnQ/photo/AF1QipOFcB61hlEykQ1P1FiFqs6o9J49W7sS76vfLwL1?key=ZE1aNjBYQ2ZsTndOVU9sT2hvQnctT2ExWi1oMlVR"> </br>
   ⚡ Hobbies **Violin🎻, Story Book📚, Drama🎭, Drawing🎨** </br>
   
 </div>
