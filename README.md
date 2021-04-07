@@ -61,17 +61,21 @@
 </p>
 </br>
   
-<p align="center">
+<div align="center">
+  
   <h3 align="center">GitHub Stats</h3>
   <a href="https://github.com/aritraroy24/aritraroy24">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritraroy24&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
   <a href="https://github.com/aritraroy24/aritraroy24">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aritraroy24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aritra's GitHub Stats" />
-</p>
+  
+</div>
 </br>
 
-<p align="center"> 
-  <h3 align="center">Github Profile Trophy</3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritraroy24&no-frame=true&theme=juicyfresh&row=1" alt="aritraroy24_github_trophy" /></a> 
-</p>
+<div align="center"> 
+  
+  <h3 align="center">Github Profile Trophy</3></br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=aritraroy24&no-frame=true&theme=juicyfresh&row=1" alt="aritraroy24_github_trophy" /></a> 
+  
+</div>
