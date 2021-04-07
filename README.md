@@ -60,7 +60,6 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.linkpicture.com/q/firebase.png" alt="firebase" width="40" height="40"/> </a>&nbsp;
 </p>
 </br>
-  
 <div align="center">
   
   <h3 align="center">GitHub Stats</h3>
@@ -72,10 +71,9 @@
   
 </div>
 </br>
-
 <div align="center"> 
   
   <h3 align="center">Github Profile Trophy</3></br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=aritraroy24&no-frame=true&theme=juicyfresh&row=1" alt="aritraroy24_github_trophy" /></a> 
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=aritraroy24&no-frame=true&theme=juicyfresh&row=1" alt="aritraroy24_github_trophy" />
   
 </div>
