@@ -11,15 +11,15 @@
 <div align="center">
   
   🔭 I’m currently working on [Newsaholic (Using React Native & Expo)](https://github.com/DuoScript/Newsaholic) </br>
-  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png" heigt="5"> </br>
+  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png" height="5"> </br>
   🌱 I’m currently learning **React, Redux and Firebase** </br>
-  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png" heigt="5"> </br>
+  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png" height="5"> </br>
   👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/aritraroy24) </br>
-  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png" heigt="5"> </br>
+  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png" height="5"> </br>
   📝 I regulary write articles on [Medium](https://medium.com/@aritraroy24) </br>
-  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png" heigt="5"> </br>
+  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png" height="5"> </br>
   💬 Ask me about **HTML5, CSS3, JS(ECMA6), Bootstrap4, React.js, Redux** </br>
-  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png" heigt="5"> </br>
+  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png" height="5"> </br>
   📫 How to reach me? **Send a mail to -**  **aritraroy24@gmail.com** </br>
   <img align="center" src="https://www.linkpicture.com/q/gold_ring.png" heigt="5"> </br>
   ⚡ Hobbies **Violin🎻, Story Book📚, Drama🎭, Drawing🎨** </br>
