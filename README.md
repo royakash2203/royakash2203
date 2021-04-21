@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="PR_welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github" href="https://github.com/royakash2203">
   <img alt="open_source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" href="https://github.com/royakash2203">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aritraroy24&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=royakash2203&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/royakash2203/royakash2203?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 
