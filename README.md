@@ -9,7 +9,6 @@
 
 <div align="center">
   
-  <img align="center" src="https://www.linkpicture.com/q/gold_ring.png" height="8"> </br>
   🌱 I’m currently learning **Python** </br>
   <img align="center" src="https://www.linkpicture.com/q/gold_ring.png" height="8"> </br>
   📫 How to reach me? **Send a mail to -**  **aroychem.ritam@gmail.com** </br>
@@ -18,6 +17,7 @@
   
 </div>
 
+<div align="center">
 <p align="center">
   <img src="https://www.linkpicture.com/q/connect_with_me.png" width="150">
 </p>
@@ -26,6 +26,8 @@
 <a href="https://www.facebook.com/profile.php?id=100014194080688" target="_blank"><img align="center" src="https://www.linkpicture.com/q/facebook_29.png" alt="royakash2203" height="30" width="30" /></a>
 <a href="https://www.instagram.com/royritam_chem/" target="_blank"><img align="center" src="https://www.freeiconspng.com/thumbs/black-icon/black-instagram-icon-21.png" alt="aritraroy24" height="30" width="30" /></a>
 </p>
+
+</div>
 <p align="center">
   <img align="center" src="https://www.linkpicture.com/q/gold_line.png" width="500">
 </p>
